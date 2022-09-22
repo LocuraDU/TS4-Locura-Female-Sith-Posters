@@ -17,7 +17,7 @@
 A simple mod that adds a few posters of some great female Sith artwork.
 
 # Installation
-Download the **.package** file of your choice and place in your mod folder. 
+Download the **.package** file of your choice and place in your mod folder. Download the file by clicking on the file and then click **Download** on the right side.
 
 # Preview
 <img src="source/swatch/sith_female_S1.png" width="128"><img src="source/swatch/sith_female_S2.png" width="128"><img src="source/swatch/sith_female_S3.png" width="128"><img src="source/swatch/sith_female_S4.png" width="128">
